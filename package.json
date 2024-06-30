@@ -1,0 +1,14 @@
+{
+  "name": "top-node-testwebsite",
+  "version": "1.0.0",
+  "description": "Project to follow the course of the odin project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
